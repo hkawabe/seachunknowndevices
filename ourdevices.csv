@@ -1,0 +1,12 @@
+#
+#   家庭内の既知のデバイスリスト
+#   mac,comment1,comment2
+#
+
+#   スマートホン
+b0:19:c6:5a:8d:9e,iPhoneX,父
+c4:14:11:e4:ce:cb,iPhoneSE,父社用
+b6:4e:26:10:6f:c7,iPhoneSE,母
+
+#   タブレット
+4c:56:9d:07:4e:82,iPad Pro 11
