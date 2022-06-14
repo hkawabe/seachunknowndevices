@@ -3,10 +3,65 @@
 #   mac,comment1,comment2
 #
 
-#   スマートホン
+# Smart Phones
 b0:19:c6:5a:8d:9e,iPhoneX,父
 c4:14:11:e4:ce:cb,iPhoneSE,父社用
 b6:4e:26:10:6f:c7,iPhoneSE,母
+f0:9f:fc:3a:88:78,AndroidOne,娘
 
-#   タブレット
-4c:56:9d:07:4e:82,iPad Pro 11
+# Tablets
+4c:56:9d:07:4e:82,iPad Pro 11,
+9c:e6:5e:8d:e8:8a,iPad Pro12,
+7a:85:a1:64:b9:e7,iPad,
+78:7b:8a:3a:a6:58,iPad Pro10,
+
+# PCs
+00:11:32:bb:1e:f3,Synology DS218,NAS
+f0:18:98:87:d3:ce,Mac mini2018,
+a8:66:7f:05:87:ab,Macbook2015,
+64:6e:e0:e2:00:b3,DELL Vostro,
+#,NEC LAVIE,
+
+# Routers
+44:67:47:72:31:88,Huawei HG8045G,
+d4:2c:46:7a:4f:e0,BUFFALO WSR-5400AX6S,
+b0:4e:26:cc:c5:49,TP-Link RE200,
+,SONY PCP-HG100,
+
+# Printers
+10:98:c3:e1:40:f7,CANON MF260,
+34:9f:7b:8a:00:fa,CANON TS3330,
+f8:f0:05:7c:51:63,CASIO EC-P10,
+
+# Scanner
+84:ba:3b:dc:49:78,CANON DR-S130,
+
+# Audio/TV/Videos
+0c:8e:29:bd:a4:82,YAMAHA RX-A780,
+00:09:b0:4c:21:ac,ONKYO CR-N765,
+74:ec:b2:e1:db:26,FireTV Stick 4K,
+a0:d0:dc:3d:a3:18,FireTV Stick,
+f0:27:2d:f1:18:5c,FireTV Stick,
+
+28:3a:4d:41:55:a1,SONY BRAVIA,
+c0:39:62:92:a1:dc,Panasonic VIERA TH-P55GT60,
+34:f6:2d:8e:73:cf,SHARP Aquos LC-32J9,
+,Panasonic VIERA19,
+d8:fb:5e:94:a8:ea,Panasonic Diga DMR-BRW1010,
+cc:7e:e7:74:16:c7,Panasonic Diga
+90:dd:5d:a4:3a:d9,AppleTV,
+
+# IoT Devices
+d0:ab:d5:ed:e4:bf,Echo Dot White,
+f0:F0:a4:02:85:d4,Echo Dot Black,
+c8:6c:3d:7c:dc:54,Echo Show,
+80:c5:f2:a4:14:16,RATOC WFIREX3,
+8c:aa:b5:4c:9e:db,SwitchBot,
+d8:07:b6:25:fd:ee,TP-Link Tapo C200,カメラ
+
+# Game Machine
+80:d2:e5:53:cf:54,Nintendo Switch,
+
+
+
+

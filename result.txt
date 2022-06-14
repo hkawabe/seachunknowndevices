@@ -1,0 +1,19 @@
+/usr/bin/python3 /Users/hiraku/Project/seachunknowndevices/checkmac.py
+b2:4e:26:bd:a4:82 None
+b2:4e:26:3d:a3:18 None
+86:27:d3:77:55:29 None
+b2:4e:26:15:0f:82 None
+1a:b4:d7:8f:5c:cd None
+b2:4e:26:a4:3a:d9 None
+a6:fd:27:56:69:e1 None
+b2:4e:26:a4:14:16 None
+b2:4e:26:d2:85:d4 None
+b2:4e:26:94:a8:ea None
+b2:4e:26:e1:db:26 None
+0e:6b:87:a5:3f:09 None
+b2:4e:26:cc:c5:4b None
+ff:ff:ff:ff:ff:ff None
+01:00:5e:00:00:fb None
+ff:ff:ff:ff:ff:ff None
+
+Process finished with exit code 0
