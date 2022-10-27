@@ -1,1 +1,36 @@
+name: Manual Deploy
 
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        type: choice
+        description: Deploy target
+        options: 
+        - dev1
+        - dev2
+        - prod
+      message:
+        required: true
+        default: "Write some messsage here"
+      dryrun:
+        type: boolean
+        description: Is dryrun?
+        default: true
+      environment:
+        type: environment
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: ${{ github.event.inputs.environment }}
+
+    steps:
+    - name: Show inputs
+      run: |
+        echo "target: ${{ github.event.inputs.target }}"
+        echo "message: ${{ github.event.inputs.message }}"
+        echo "dryrun: ${{ github.event.inputs.dryrun }}"
+    - name: Deploy (use environemt secrets)
+      run: |
+        echo "Deploy target server: ${{ secrets.ENV_SERVER }}"
